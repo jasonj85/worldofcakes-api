@@ -4,7 +4,7 @@ Demo project using Node, React, Typescript, Sqlite
 # hosted online
 - using Heroku for hosting purposes
 
-API: https://worldcakesapi.herokuapp.com/api/cakes
+API: https://worldcakesapi.herokuapp.com/api/cakes  
 FE: https://worldcakesclient.herokuapp.com/
 
 ## How to run locally
