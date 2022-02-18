@@ -5,9 +5,10 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "prestart": "npm run build",
+    "prestart": "npm run build npm ",
     "start": "node .",
-    "dev": "ts-node-dev --pretty --respawn --transpile-only src/index.ts"
+    "dev": "ts-node-dev --pretty --respawn --transpile-only src/index.ts",
+    "heroku-postbuild": "npm install"
   },
   "keywords": [
     "node",
