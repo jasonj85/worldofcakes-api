@@ -9,7 +9,7 @@ FE:
 
 ## How to run locally
 1. run git clone https://github.com/jasonj85/worldofcakes-api.git
-2. open terminal in api folder ("cd api"). Run "npm install" then "npm start"
+2. open terminal in folder. Run "npm install" then "npm start"
 
 ## Other notes
 - FE currently set to run on port 3000, BE on port 5000
